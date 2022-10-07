@@ -1,0 +1,92 @@
+[
+  {
+    "quetionText": "Who is the first man PM of India?",
+    "ansOption": [
+      { "ansText": "Narendra Modi", "isCorrect": false },
+      { "ansText": "Jawaharlal Nehru ", "isCorrect": true },
+      { "ansText": "Dr. Rajendra Prasad", "isCorrect": false },
+      { "ansText": "Rajiv Gandhi", "isCorrect": false }
+    ]
+  },
+  {
+    "quetionText": "which is the richest country in the world?",
+    "ansOption": [
+      { "ansText": "Luxembourg", "isCorrect": true },
+      { "ansText": "Singapore ", "isCorrect": false },
+      { "ansText": "Ireland", "isCorrect": false },
+      { "ansText": "Qatar", "isCorrect": false }
+    ]
+  },
+  {
+    "quetionText": "Who is the current CM of UP?",
+    "ansOption": [
+      { "ansText": "Keshav Prasad Maurya", "isCorrect": false },
+      { "ansText": "Narendra Modi ", "isCorrect": false },
+      { "ansText": "Yogi Aditya Nath", "isCorrect": true },
+      { "ansText": "Akhilesh Yadav", "isCorrect": false }
+    ]
+  },
+  {
+    "quetionText": "who is current rajyapal of up?",
+    "ansOption": [
+      { "ansText": "Rajnath Singh", "isCorrect": false },
+      { "ansText": "Narendra Modi ", "isCorrect": false },
+      { "ansText": "Yogi Aditya Nath", "isCorrect": false },
+      { "ansText": "Anandiben Patel", "isCorrect": true }
+    ]
+  },
+  {
+    "quetionText": "Javascript is an _______ language?",
+    "ansOption": [
+      { "ansText": "Object-Oriented", "isCorrect": true },
+      { "ansText": "Object-Based ", "isCorrect": false },
+      { "ansText": "Procedural", "isCorrect": false },
+      { "ansText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "quetionText": " Which one of the following also known as Conditional Expression:",
+    "ansOption": [
+      { "ansText": "Alternative to if-else", "isCorrect": false },
+      { "ansText": "Switch statement", "isCorrect": false },
+      { "ansText": "If-then-else statement", "isCorrect": false },
+      { "ansText": "immediate if", "isCorrect": true }
+    ]
+  },
+  {
+    "quetionText": " When interpreter encounters an empty statements, what it will do:",
+    "ansOption": [
+      { "ansText": "Shows a warning", "isCorrect": false },
+      { "ansText": "Prompts to complete the statement", "isCorrect": false },
+      { "ansText": "Throws an error", "isCorrect": false },
+      { "ansText": "Ignores the statements", "isCorrect": true }
+    ]
+  },
+  {
+    "quetionText": "The 'function and 'var are known as:",
+    "ansOption": [
+      { "ansText": "Keywords", "isCorrect": false },
+      { "ansText": "Data types", "isCorrect": false },
+      { "ansText": "Declaration statements", "isCorrect": true },
+      { "ansText": "Prototypes", "isCorrect": false }
+    ]
+  },
+  {
+    "quetionText": " Which one of the following is the correct way for calling the JavaScript code?",
+    "ansOption": [
+      { "ansText": "Preprocessor", "isCorrect": false },
+      { "ansText": "Triggering Event", "isCorrect": false },
+      { "ansText": "RMI", "isCorrect": false },
+      { "ansText": "Function/Method", "isCorrect": true }
+    ]
+  },
+  {
+    "quetionText": " Which of the following type of a variable is volatile?",
+    "ansOption": [
+      { "ansText": "Mutable variable", "isCorrect": true },
+      { "ansText": "Dynamic variable", "isCorrect": false },
+      { "ansText": "Volatile variable", "isCorrect": false },
+      { "ansText": "Immutable variable", "isCorrect": false }
+    ]
+  }
+]

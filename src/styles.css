@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: linen;
+  min-height: 100vh;
+  width: 100vw;
+}
+.card {
+  border: 1px solid black;
+  height: 80vh;
+  width: 70vh;
+  background-color: darkslategray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 10px 10px 8px 10px #888888;
+  border-radius: 5px;
+  overflow: auto;
+  color: white;
+  flex-direction: column;
+}
+.btn {
+  width: 40vh;
+  padding: 3px;
+  border-radius: 3px;
+  margin: 3px;
+  text-align: center;
+}
+.btn1 {
+  width: 22vw;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: none;
+  margin: 3px;
+  background-color: tomato;
+}
+
+.btn2 {
+  width: 22vw;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: none;
+  margin: 3px;
+  background-color: greenyellow;
+}
+
+* {
+  font-family: "Alkalami", serif;
+}
+
+.main-head {
+  color: chartreuse;
+}
+.head {
+  color: palegoldenrod;
+}
